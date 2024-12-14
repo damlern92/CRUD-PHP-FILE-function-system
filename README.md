@@ -1,3 +1,3 @@
-# CRUD-PHP-FILE-system
+# CRUD-PHP-file-system
 
-I demonstrated PHP file functions and working with data to create, read, update, delete data from text file.
+I demonstrated Php file functions and working with data to create, read, update, delete data from text file.
