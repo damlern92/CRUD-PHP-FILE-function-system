@@ -1,4 +1,4 @@
-1|Markod|Damjanac|mar@exa.com
+1|Marko|Damjanac|mar@exa.com
 2|Lek|Enderijan|bojana@example.com
 4|Marian|Gold|boki@medem.on
 5|Darko|Davidovic|dav@email.com
